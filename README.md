@@ -1,6 +1,3 @@
-<!-- Profile Image -->
-<img src="https://i.imgur.com/juZosa3.png" alt="Vincent Ho's Profile Image" style="border-radius: 50%; width:150px; display: block; margin-left: auto; margin-right: auto;"/>
-
 <!-- Header Section with GIF, set to full width -->
 <img src="https://media.giphy.com/media/PXj1J0eMONGOA/giphy.gif" alt="8-bit Drive GIF" style="width: 100vw; height: auto; display: block; margin-left: auto; margin-right: auto;" />
 

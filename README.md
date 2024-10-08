@@ -8,58 +8,48 @@
 </head>
 <body>
     <!-- Profile Section -->
-    <header class="intro">
+    <header>
         <img src="profile-image.jpg" alt="Vincent Ho" class="profile-img">
         <h1>Hi, I'm Vincent Ho</h1>
         <p>A passionate Sports Management | Digital Marketing | Streaming Operator</p>
         <ul class="social-links">
-            <li><a href="https://www.linkedin.com/in/vincent-ho-00788b176" target="_blank">LinkedIn</a></li>
-            <li><a href="https://www.instagram.com/wuipok/" target="_blank">Instagram</a></li>
-            <li><a href="https://www.instagram.com/hkeapl/" target="_blank">EAPL Instagram</a></li>
-            <li><a href="https://eapl-league.com/" target="_blank">EAPL Website</a></li>
-            <li><a href="https://drive.google.com/drive/folders/1YfrQPQ3bY9lHuuEHsg3QmLS0bmDoiMoV?usp=sharing" target="_blank">My Portfolio</a></li>
+            <li><a href="https://twitter.com">Twitter</a></li>
+            <li><a href="https://linkedin.com">LinkedIn</a></li>
+            <li><a href="https://github.com">GitHub</a></li>
         </ul>
     </header>
-
+    
     <!-- About Section -->
-    <section id="about" class="fade-in">
+    <section id="about">
         <h2>About Me</h2>
         <p>I'm a dedicated sports management professional with experience in digital marketing, streaming, and game day operations.</p>
     </section>
 
     <!-- Projects Section -->
-    <section id="projects" class="fade-in">
+    <section id="projects">
         <h2>Projects</h2>
         <div class="project">
             <h3>East Asia Pro-Am League</h3>
             <p>Founder of an e-sports league with a 200% reach increase across multiple social platforms.</p>
-            <a href="https://eapl-league.com/" target="_blank" class="btn">View Project</a>
+            <a href="https://github.com/project-link">View Project</a>
         </div>
         <div class="project">
             <h3>Streaming Assistant - NBL</h3>
             <p>Implemented LiveU streaming and managed live scores for NBL games.</p>
-            <a href="https://github.com/project-link" target="_blank" class="btn">View Project</a>
+            <a href="https://github.com/project-link">View Project</a>
         </div>
     </section>
 
     <!-- GitHub Stats Section -->
-    <section id="stats" class="fade-in">
+    <section id="stats">
         <h2>GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=Enjoy021&show_icons=true&theme=dark" alt="Vincent's GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" alt="GitHub Stats">
     </section>
 
     <!-- Footer -->
     <footer>
         <p>© 2024 Vincent Ho</p>
     </footer>
-
-    <script>
-        // Simple fade-in effect for elements
-        window.addEventListener('load', function() {
-            const elements = document.querySelectorAll('.fade-in');
-            elements.forEach(el => el.classList.add('visible'));
-        });
-    </script>
 </body>
 </html>
 /* Basic Reset */
@@ -75,13 +65,10 @@ body {
     color: #f1f1f1;
     text-align: center;
     padding: 20px;
-    overflow-x: hidden;
 }
 
 header {
     margin-bottom: 40px;
-    opacity: 0;
-    animation: fadeIn 1s forwards;
 }
 
 .profile-img {
@@ -113,26 +100,10 @@ p {
     color: #f1f1f1;
     text-decoration: none;
     font-size: 1.2em;
-    padding: 10px 20px;
-    border-radius: 5px;
-    background-color: #ff5722;
-    transition: background-color 0.3s ease;
-}
-
-.social-links li a:hover {
-    background-color: #e64a19;
 }
 
 section {
     margin: 40px 0;
-    opacity: 0;
-    transform: translateY(20px);
-    transition: opacity 1s ease, transform 1s ease;
-}
-
-section.visible {
-    opacity: 1;
-    transform: translateY(0);
 }
 
 h2 {
@@ -157,19 +128,9 @@ h2 {
     color: #ccc;
 }
 
-.project a.btn {
-    display: inline-block;
-    margin-top: 10px;
-    padding: 10px 20px;
-    background-color: #ff5722;
-    color: #fff;
-    border-radius: 5px;
+.project a {
     text-decoration: none;
-    transition: background-color 0.3s ease;
-}
-
-.project a.btn:hover {
-    background-color: #e64a19;
+    color: #ff5722;
 }
 
 #stats img {
@@ -180,16 +141,6 @@ footer {
     margin-top: 40px;
     font-size: 0.8em;
     color: #ccc;
-}
-
-/* Keyframes for fade-in */
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
 }
 
 /* Mobile Responsiveness */
@@ -206,3 +157,7 @@ footer {
         font-size: 1.5em;
     }
 }
+<img src="https://github-readme-stats.vercel.app/api?username=Enjoy021&show_icons=true&theme=dark" alt="Vincent's GitHub Stats">
+git add .
+git commit -m "Updated portfolio with new design and stats"
+git push origin main

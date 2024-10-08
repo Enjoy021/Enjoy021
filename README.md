@@ -1,8 +1,8 @@
 <!-- Profile Image -->
-<img src="https://imgur.com/a/MYh4uY5" alt="Vincent Ho's Profile Image" style="border-radius: 50%; width:150px; display: block; margin-left: auto; margin-right: auto;"/>
+<img src="https://i.imgur.com/juZosa3.png" alt="Vincent Ho's Profile Image" style="border-radius: 50%; width:150px; display: block; margin-left: auto; margin-right: auto;"/>
 
-<!-- Header Section with Custom Banner -->
-<img src="https://yourimageurl.com/banner.png" alt="Cyberpunk banner for Vincent Ho's GitHub Profile" style="width:100%;"/>
+<!-- Header Section with Custom Cyberpunk 16:9 Banner -->
+<img src="https://i.imgur.com/DmYKlbk.png" alt="Cyberpunk banner for Vincent Ho's GitHub Profile" style="width:100%; height:auto;"/>
 
 # Hi 👋, I'm Vincent Ho
 
@@ -48,8 +48,27 @@ A passionate **Sports Management Professional** from Hong Kong, focused on integ
 ---
 
 ### 🌐 Connect with Me
-- **[LinkedIn](https://www.linkedin.com/in/vincent-ho-00788b176)**
-- **[EAPL Website](https://eapl-league.com/)**
-- **[Personal Instagram](https://www.instagram.com/wuipok/)**
-- **[EAPL Instagram](https://www.instagram.com/hkeapl/)**
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/vincent-ho-00788b176" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30"/>
+    <span>LinkedIn</span>
+  </a>
+  <br />
+  <a href="https://eapl-league.com/" target="_blank">
+    <img src="https://i.imgur.com/AHNmHfb.png" alt="EAPL Website" height="30" width="30"/>
+    <span>EAPL Website</span>
+  </a>
+  <br />
+  <a href="https://www.instagram.com/wuipok/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Personal Instagram" height="30" width="30"/>
+    <span>Personal Instagram</span>
+  </a>
+  <br />
+  <a href="https://www.instagram.com/hkeapl/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="EAPL Instagram" height="30" width="30"/>
+    <span>EAPL Instagram</span>
+  </a>
+</p>
+
+---

@@ -9,7 +9,7 @@ A passionate **Sports Management Professional** from Hong Kong, focused on integ
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on the **East Asia Pro-Am League (E-Sports)** and **GameFace Streaming**
-- 📡 I’m currently learning **Digital Marketing and Content Creation**
+- 📡 I’m currently learning **Language R**
 - 🎮 Ask me about **NBA 2K E-Sports**, **WordPress CMS**, or **Automation Tools (Zapier, IFTTT)**
 - 💼 How to reach me: **[wuipok99@gmail.com](mailto:wuipok99@gmail.com)**
 
